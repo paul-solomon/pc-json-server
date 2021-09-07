@@ -42,7 +42,7 @@
         "logo": "logo1.svg"
       },
       "withdrawAmount": 800,
-      "totalAmount": 665,
+      "totalAmount": 1000,
       "currency": {
         "id": "jghjgh",
         "symbol": "€",
