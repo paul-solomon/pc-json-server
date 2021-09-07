@@ -1,0 +1,90 @@
+{
+  "withdraw-requests": [
+    {
+      "id": "afsds",
+      "casino": {
+        "id": "fgdfh",
+        "name": "Gambleone",
+        "logo": "logo1.svg"
+      },
+      "withdrawAmount": 500,
+      "totalAmount": 1900,
+      "currency": {
+        "id": "jghjgh",
+        "symbol": "€",
+        "name": "EUR"
+      },
+      "tokenBalance": 2000,
+      "ibanNumber": "RO09RZBR0000060015555555"
+    },
+    {
+      "id": "jgjhghj",
+      "casino": {
+        "id": "fgdfh",
+        "name": "Gambleone",
+        "logo": "logo1.svg"
+      },
+      "withdrawAmount": 600,
+      "totalAmount": 950,
+      "currency": {
+        "id": "jghjgh",
+        "symbol": "€",
+        "name": "EUR"
+      },
+      "tokenBalance": 1000,
+      "ibanNumber": "RO09RZBR0000060015555555"
+    },
+    {
+      "id": "terhf",
+      "casino": {
+        "id": "fgdfh",
+        "name": "Gambleone",
+        "logo": "logo1.svg"
+      },
+      "withdrawAmount": 800,
+      "totalAmount": 665,
+      "currency": {
+        "id": "jghjgh",
+        "symbol": "€",
+        "name": "EUR"
+      },
+      "tokenBalance": 700,
+      "ibanNumber": "RO09RZBR0000060015555555"
+    },
+    {
+      "id": "nvbnv",
+      "casino": {
+        "id": "iujgh",
+        "name": "Gambletwo",
+        "logo": "logo2.svg"
+      },
+      "withdrawAmount": 500,
+      "totalAmount": 1900,
+      "currency": {
+        "id": "jghjgh",
+        "symbol": "€",
+        "name": "EUR"
+      },
+      "tokenBalance": 2000,
+      "ibanNumber": "RO09RZBR0000060015555555"
+    },
+    {
+      "id": "ghmngf",
+      "casino": {
+        "id": "iujgh",
+        "name": "Gambletwo",
+        "logo": "logo2.svg"
+      },
+      "withdrawAmount": 600,
+      "totalAmount": 1425,
+      "currency": {
+        "id": "jghjgh",
+        "symbol": "€",
+        "name": "EUR"
+      },
+      "tokenBalance": 1500,
+      "ibanNumber": "RO09RZBR0000060015555555"
+    }
+  ],
+  "history": []
+}
